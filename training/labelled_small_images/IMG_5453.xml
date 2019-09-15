@@ -1,0 +1,26 @@
+<annotation>
+	<folder>white horse</folder>
+	<filename>IMG_5453.JPG</filename>
+	<path>C:\Users\saammana\Desktop\labelled\white horse\IMG_5453.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>white_horse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>163.0</xmin>
+			<ymin>31.0</ymin>
+			<xmax>207.0</xmax>
+			<ymax>119.0</ymax>
+		</bndbox>
+	</object>
+</annotation>

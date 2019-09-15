@@ -1,0 +1,26 @@
+<annotation>
+	<folder>black horse</folder>
+	<filename>IMG_5645.JPG</filename>
+	<path>C:\Users\saammana\Desktop\labelled\black horse\IMG_5645.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>black_horse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>49.0</xmin>
+			<ymin>21.0</ymin>
+			<xmax>129.0</xmax>
+			<ymax>148.0</ymax>
+		</bndbox>
+	</object>
+</annotation>

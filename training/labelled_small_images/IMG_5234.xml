@@ -1,0 +1,26 @@
+<annotation>
+	<folder>white bishop</folder>
+	<filename>IMG_5234.JPG</filename>
+	<path>C:\Users\saammana\Desktop\labelled\white bishop\IMG_5234.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>white_bishop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>119.0</xmin>
+			<ymin>48.0</ymin>
+			<xmax>184.0</xmax>
+			<ymax>146.0</ymax>
+		</bndbox>
+	</object>
+</annotation>

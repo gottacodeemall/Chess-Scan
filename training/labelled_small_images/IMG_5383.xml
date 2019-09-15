@@ -1,0 +1,26 @@
+<annotation>
+	<folder>white queen</folder>
+	<filename>IMG_5383.JPG</filename>
+	<path>C:\Users\saammana\Desktop\labelled\white queen\IMG_5383.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>white_queen</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>100.0</xmin>
+			<ymin>10.0</ymin>
+			<xmax>162.0</xmax>
+			<ymax>141.0</ymax>
+		</bndbox>
+	</object>
+</annotation>

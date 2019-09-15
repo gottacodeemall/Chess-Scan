@@ -1,0 +1,26 @@
+<annotation>
+	<folder>black pawn</folder>
+	<filename>IMG_5522.JPG</filename>
+	<path>C:\Users\saammana\Desktop\labelled\black pawn\IMG_5522.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>black_pawn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>149.0</xmin>
+			<ymin>22.0</ymin>
+			<xmax>195.0</xmax>
+			<ymax>102.0</ymax>
+		</bndbox>
+	</object>
+</annotation>
